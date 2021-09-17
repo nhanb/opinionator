@@ -3,7 +3,10 @@ name = "opinionator"
 version = "0.1.0"
 description = ""
 authors = ["nhanb"]
-license = "GPLv3"
+license = "GPL-3.0-only"
+
+[tool.poetry.scripts]
+opinionator = "opinionator:main"
 
 [tool.poetry.dependencies]
 python = "^3.9"
