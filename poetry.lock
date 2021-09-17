@@ -1,0 +1,18 @@
+[[package]]
+name = "mistune"
+version = "2.0.0rc1"
+description = "A sane Markdown parser with useful plugins and renderers"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "dbf641ec5170a41d49937dcb8bd9665e45f3fe1b61ae02cfe475ec6967c26ce5"
+
+[metadata.files]
+mistune = [
+    {file = "mistune-2.0.0rc1-py2.py3-none-any.whl", hash = "sha256:02437870a8d594e61e4f6cff2f56f5104d17d56e3fea5fb234070ede5e7c2eae"},
+    {file = "mistune-2.0.0rc1.tar.gz", hash = "sha256:452bdba97c27efc7c1a83823ed0d6a08a9ad6ea5c67648248509f618b68aa7d9"},
+]
