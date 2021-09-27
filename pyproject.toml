@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "opinionator"
 version = "0.1.0"
-description = ""
+description = "Blogging like it's 1995"
 authors = ["nhanb"]
 license = "GPL-3.0-only"
 
